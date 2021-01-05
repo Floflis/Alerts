@@ -36,7 +36,7 @@
     "redux-watch": "1.1.1",
     "request": "2.81.0",
     "request-promise-native": "1.0.4",
-    "rtl-detect": "1.0.0",
+    "rtl-detect": "1.0.2",
     "tld-extract": "1.0.1",
     "util.promisify": "1.0.0",
     "xmldoc": "1.1.0"
