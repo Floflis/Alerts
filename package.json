@@ -35,7 +35,7 @@
     "redux": "3.7.1",
     "redux-watch": "1.1.1",
     "request": "2.81.0",
-    "request-promise-native": "1.0.4",
+    "request-promise-native": "1.0.9",
     "rtl-detect": "1.0.0",
     "tld-extract": "1.0.1",
     "util.promisify": "1.0.0",
